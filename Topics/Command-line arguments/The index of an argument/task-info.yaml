@@ -1,0 +1,20 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Problem {
+        public static void main(String[] args) {
+
+        }
+    }
+  learner_created: false
+- name: src/Problem.class
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/3334#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 07 Dec 2021 18:56:16 UTC
+record: -1
